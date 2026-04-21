@@ -18,10 +18,18 @@ For this *adventure*, I selected the option to take on and document a stretch go
 
 ### My Approach
 
+* Define a truth-first stretch goal with verifiable outcomes
+* Prioritize fast grading turnaround windows when possible
+* Offer follow-up discussions for clarification and point recovery
+* Document impact with written reports and redacted artifacts
 
 ### Results At A Glance
 
-
+* `6` homework grading windows completed in under 24 hours (`HW0`, `HW1`, `HW3`, `HW4`, `HW5`, `HW9`)
+* `1` midterm grading cycle returned by the following Monday (`MT1`)
+* `>15` estimated follow-up or point-recovery interactions (from private correspondence)
+* `~7` estimated additional follow-up hours (about 30-60 minutes per week across ~10 weeks)
+* `~11` estimated additional hours total, including follow-up support and extra turnaround effort
 
 ### Deliverable Materials
 
