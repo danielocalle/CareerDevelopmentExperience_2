@@ -33,7 +33,10 @@ For this *adventure*, I selected the option to take on and document a stretch go
 
 ### Deliverable Materials
 
-
+* [Stretch Goal Plan](deliverables/stretch_goal_plan.md)
+* [Measurable Impact Report](deliverables/measurable_impact_report.md)
+* [Additional Feedback Examples](deliverables/additional_feedback_examples.md)
+* [Reflection Report (<=500 words)](reflection.md)
 
 ### Artifact Highlights
 
@@ -46,3 +49,10 @@ For this *adventure*, I selected the option to take on and document a stretch go
 ![MT1 grading by following Monday](artifacts/MT1-gradingbyfollowingmonday.png)
 
 These images show quick grading status updates and fast turnaround communication. They support the measurable-impact claims in this repository. Where exact logs are private (student correspondence), estimates are explicitly marked and explained in the written deliverables.
+
+---
+### See [deliverables/](./deliverables/) for all written deliverables for CYA-2.
+
+### See [artifacts/](./artifacts/) for supporting proof of engagement.
+
+*Some communications are kept redacted as to protect student privacy.*
