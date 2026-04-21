@@ -6,6 +6,15 @@ For this *adventure*, I selected the option to take on and document a stretch go
 
 ### Career Goals
 
+**Short-term**
+
+* Improve technical communication with students
+* Build stronger mentoring habits in instructional settings
+
+**Long-term**
+
+* Become a collaborative software engineer with strong communication skills
+* Continue mentoring through code review, onboarding, and feedback practices
 
 ### My Approach
 
